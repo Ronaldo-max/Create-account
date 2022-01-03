@@ -2,20 +2,31 @@
     <img src="Page_create_account.png">
 </div>
 
-- Fonts utilizadas:
+<br/>
 
--> Roboto e Maven Pro.
+<h1>Roteiro da página</h1>
 
-- Cores utilizadas:
+<h2>Fonts utilizadas:</h2>
 
-- fonts
+- Roboto e Signika Negative.
 
--> #E7F0FF, #BBCAD9, #0085FF
+<h2>Cores utilizadas:</h2>
 
-- campos
+<h3>Fontes</h3>
 
--> #2C6CA7, #FFFFFF
+- #E7F0FF, #BBCAD9, #0085FF
 
-- background
+<h3>Campos</h3>
 
--> #154673
+- #2C6CA7, #FFFFFF
+
+<h3>Background</h3>
+
+- #154673
+
+<h2>Sites que utilizei para desenvolver a página</h2>
+
+- Pexels <p>pexels.com</p>
+- CSS Gradient <p>https://cssgradient.io/</p>
+- Google Fonts (para fontes e ícones) <p>https://fonts.google.com/</p>
+- Figma <p>https://www.figma.com</p>
