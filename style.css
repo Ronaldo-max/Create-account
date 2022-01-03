@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;900&family=Signika+Negative:wght@700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.imagem-fundo {
+    font-weight: 100%;
+    background-image: url(/assets/fundo.jpg);
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.gradient {
+    background: linear-gradient(90deg, rgba(21,70,115,1) 0%, rgba(21,70,115,1) 60%, rgba(21,70,115,0) 100%);
+    width: 100%;
+    height: 100%;
+}
+
+.conteudo {
+    width: 600px;
+    height: 100%;
+    margin-left: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.primeiro-texto {
+    color: #E7F0FF;
+    font-weight: 900;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.subconteudo {
+    align-items: center;
+    width: 100%;
+}
+
+.formulario {
+    align-items: center;
+    padding: 0px 10px 0px 10px;
+}
+
+.dois-campos {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.dois-campos-campo{
+    width: 280px;
+    height: 60px;
+    border-radius: 15px;
+    background: #2C6CA7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 15px 0px 15px;
+}
+
+.input {
+    border: none;
+    width: 100%;
+    height: 100%;
+    background: none;
+    text-align: center;
+    margin-right: 20px;
+    color: #BBCAD9;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    outline-width: 0px;
+}
+
+.dois-campos-campo:hover{
+    border: 0.5px solid #BBCAD9;
+}
+
+.input::placeholder {
+    color: #BBCAD9;
+    font-size: 1.0em;
+  }
+
+.img-input {
+    width: 35px;
+    height: 35px;
+}
+
+.campo-grande{
+    width: 100%;
+    height: 60px;
+    border-radius: 15px;
+    background: #2C6CA7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 15px 0px 15px;
+    margin-bottom: 20px;
+}
+
+.campo-grande:hover{
+    border: 0.5px solid #BBCAD9;
+}
+
+.div-button {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.button {
+    width: 280px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Roboto', sans-serif;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.15);
+    color: #0085FF;
+    background-color: #ffffff;
+
+    margin-top: 30px;
+}
+
+.button:hover {
+    color: #ffffff;
+    background-color: #0085FF;
+}
