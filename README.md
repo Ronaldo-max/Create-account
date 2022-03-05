@@ -1,37 +1,37 @@
-<div>
-    <img src="Page_create_account.png">
-</div>
+# Create Account
 
-<br/>
+<img src="Page_create_account.png">
 
-<h1>Page script</h1>
-
-<h2>Fonts used:</h2>
+## Fonts used:
 
 - Roboto and Signika Negative.
 
-<h2>Colors used:</h2>
+## Colors used:
 
-<h3>Sources</h3>
+### Sources
 
 - #E7F0FF, #BBCAD9, #0085FF
 
-<h3>Fields</h3>
+### Fields
 
 - #2C6CA7, #FFFFFF
 
-<h3>Background</h3>
+### Background
 
 - #154673
 
-<h2>Sites I used to develop the page</h2>
+## Websites I used to develop the page
 
-- Pexels <p>pexels.com</p>
-- CSS Gradient <p>https://cssgradient.io/</p>
-- Google Fonts (para fontes e ícones) <p>https://fonts.google.com/</p>
-- Figma <p>https://www.figma.com</p>
+- <a href="https://pexels.com">Pexels</a>
+- <a href="https://cssgradient.io">CSS Gradient</a>
+- <a href="https://fonts.google.com">Google Fonts (para fontes e ícones)</a>
+- <a href="https://www.figma.com">Figma</a>
 
-<h2>Technologies used:</h2>
+## Technologies used:
 
 - HTML
 - CSS
+
+## License
+
+This project is under the MIT license. See the [LICENSE](LICENSE) file for more details.
